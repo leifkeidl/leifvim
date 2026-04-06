@@ -1,0 +1,9 @@
+require("config.options")
+require("config.keymaps")
+require("config.lazy")
+require("plugins")
+
+require("plugins.tree")
+require("plugins.whichkey")
+require("plugins.dashboard")
+require("plugins.colorscheme")
