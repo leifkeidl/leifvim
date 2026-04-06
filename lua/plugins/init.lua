@@ -4,4 +4,5 @@ require("lazy").setup({
   { "folke/which-key.nvim" },
   { "goolord/alpha-nvim" },
   { "folke/tokyonight.nvim" },
+  { "neovim/nvim-lspconfig" },
 })
